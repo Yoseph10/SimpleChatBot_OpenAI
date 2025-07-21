@@ -37,10 +37,3 @@ asistente-personalizado/
 ├── mis_productos.csv             # Archivo CSV con tu catálogo de productos
 ├── mis_reglas.txt                # Reglas y estilo de comunicación
 └── README.md                     # Este archivo
-
----
-
-## 📂 Ejemplo de cómo funciona el ChatBot
-
-<img width="1877" height="965" alt="image" src="https://github.com/user-attachments/assets/2373e4d1-34b2-43fe-8993-10ce8fdca0cd" />
-
